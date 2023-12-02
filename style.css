@@ -1,0 +1,59 @@
+h1{
+    color: red;
+    background-color: aquamarine;
+}
+
+p{
+    color: chartreuse;
+    background-color: cornsilk;
+}
+ul{
+    color: beige;
+    background-color: black;
+}
+ol{
+    color: darkblue;
+    background-color: cornflowerblue;
+}
+.about{
+    color: greenyellow;
+    background-color: azure;
+    border: none;
+    width: 200px;
+    height: 50;
+    border-radius: 5px;
+}
+.Subscription{
+    color: dodgerblue;
+    background-color: firebrick;
+    border: none;
+    width: 200px;
+    height: 50;
+    border: radius 5px; ;
+
+}
+.address{
+    color: aquamarine;
+    background-color: brown;
+    border: none;
+    width: 200px;
+    height: 50;
+    border-radius: 5px;
+
+}
+.mail{
+    color: dimgrey;
+    background-color: gold;
+    border: none;
+    width: 200px;
+    height: 50;
+    border-radius:5px ;
+}
+.number{
+    color: black;
+    background-color: silver;
+    border: none;
+    width: 200px;
+    height: 50;
+    border-radius: 5px;
+}
